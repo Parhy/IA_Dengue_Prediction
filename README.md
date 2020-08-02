@@ -1,3 +1,3 @@
-# IA_Project_Mosquito
+# Proyecto IA-1
 
 <img src=Banner.png>
