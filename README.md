@@ -1,3 +1,4 @@
 # Proyecto IA-1
-
-<img src=Banner.png>
+<p align="center">
+  <img src="Banner.png" />
+</p>
