@@ -9,4 +9,4 @@
 - Dataset: DengAI dataset.
 - Modelo: Aprendizaje supervisado con Decision Tree Regression y Random Forest Regressor, aprendizaje no supervisado con KMeans.
 
-[(code)](https://github.com/jessicapedraza29/Proyecto_IA) [(video)](https://youtu.be/Q229CUkoxvk) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2019-2/2151853/2151853.pdf)
+[(code)](https://github.com/Parhy/IA_Project_Mosquito) [(video)](https://youtu.be/Q229CUkoxvk) [(+info)](https://github.com/Parhy/IA_Project_Mosquito)
