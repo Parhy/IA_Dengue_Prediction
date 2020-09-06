@@ -6,7 +6,7 @@
 
 **Objetivo: Predecir la cantidad de casos de dengue e identificar qué factor influye más en la propagación**
 
-- Dataset: DengAI dataset.
+- Dataset: DengAI prediction dataset.
 - Modelo: Aprendizaje supervisado con Decision Tree Regression, Random Forest Regressor y Gaussian Process Regression. Aprendizaje no supervisado con KMeans.
 
 [(code)](https://github.com/Parhy/IA_Project_Mosquito) [(video)](https://youtu.be/Q229CUkoxvk) 
