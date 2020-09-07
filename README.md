@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/Parhy/IA_Project_Mosquito/master/Banner.png" style="width:700px;">
 
-**Objetivo: Predecir la cantidad de casos de dengue e identificar qué factor influye más en la propagación**
+**Objetivo: Predecir la cantidad de casos de dengue e identificar qué factor climatológico influye más en la propagación.**
 
 - Dataset: DengAI prediction dataset.
 - Modelo: Aprendizaje supervisado con Decision Tree Regression, Random Forest Regressor y Gaussian Process Regression. Aprendizaje no supervisado con KMeans.
