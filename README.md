@@ -9,7 +9,7 @@
 - Dataset: DengAI prediction dataset.
 - Modelo: Aprendizaje supervisado con Decision Tree Regression, Random Forest Regressor y Gaussian Process Regression. Aprendizaje no supervisado con KMeans.
 
-[(code)](https://github.com/Parhy/IA_Project_Mosquito)
+[(code)](https://github.com/Parhy/IA_Dengue_Prediction/blob/master/Notebook/An%C3%A1lisis_de_factores_que_generan_la_propagaci%C3%B3n_del_dengue.ipynb)
 [(Dataset)](https://www.kaggle.com/jurk06/dengue-prediction/notebook) 
 [(video)](https://youtu.be/Q229CUkoxvk)  
 [(Poster)](https://github.com/Parhy/IA_Project_Mosquito/blob/master/Poster/Predicci%C3%B3n%20del%20dengue.pdf) 
